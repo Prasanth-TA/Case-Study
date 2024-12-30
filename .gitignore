@@ -193,4 +193,4 @@ test.ipynb
 !src/ta_lib/_vendor/tigerml/core/reports/html/report_resources/*
 
 # ignore *.Zone.Identifier files
-*.Zone.Identifier
+*:Zone.Identifier
